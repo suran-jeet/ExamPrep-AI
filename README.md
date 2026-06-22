@@ -19,6 +19,8 @@ The application supports two AI workflows. For private/offline usage, it integra
 
 Major capabilities include local model discovery, Gemini reliability handling, exact-count validation for generated resources, interactive MCQ quizzes, flip-style flashcards, study-plan timelines, PDF/TXT/DOCX/Markdown exports, and a polished Streamlit dashboard.
 
+Live Demo:https://youtu.be/OpKHNscVcQY
+
 ---
 
 ## ✨ Features
