@@ -555,7 +555,7 @@ Please keep generated files, API keys, local logs, and virtual environments out 
 This project was developed for educational and academic purposes as part of the Summer Internship in Applied AI & Industry AI Tools.
 ---
 
-## 👤 Author
+## 👤 Author.
 
 | Field | Details |
 |---|---|
